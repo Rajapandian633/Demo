@@ -1,0 +1,1 @@
+package inheritance_15_may_2022;
